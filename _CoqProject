@@ -1,0 +1,11 @@
+-R theories NN
+theories/tactics.v
+theories/min_pqueue.v
+theories/max_pqueue.v
+theories/quick_select_partition.v
+theories/bounding_boxes.v
+theories/kdtree.v
+theories/knn_search.v
+theories/list_ot.v
+theories/countTest.v
+theories/classify.v
